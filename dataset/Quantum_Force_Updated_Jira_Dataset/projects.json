@@ -1,0 +1,52 @@
+[
+  {
+    "project_id": "PRJ-001",
+    "project_key": "KAFKA",
+    "project_name": "Kafka Core",
+    "description": "Apache Kafka core broker and platform capabilities",
+    "project_type": "Synthetic portfolio grouping",
+    "source_project_key": "KAFKA",
+    "data_type": "Simulated",
+    "end_date": "2026-11-09 09:20:13"
+  },
+  {
+    "project_id": "PRJ-002",
+    "project_key": "KCONNECT",
+    "project_name": "Kafka Connect",
+    "description": "Connector framework and integration capabilities",
+    "project_type": "Synthetic portfolio grouping",
+    "source_project_key": "KAFKA",
+    "data_type": "Simulated",
+    "end_date": "2026-11-09 17:49:56"
+  },
+  {
+    "project_id": "PRJ-003",
+    "project_key": "KSTREAM",
+    "project_name": "Kafka Streams",
+    "description": "Stream processing and stateful application capabilities",
+    "project_type": "Synthetic portfolio grouping",
+    "source_project_key": "KAFKA",
+    "data_type": "Simulated",
+    "end_date": "2026-11-08 14:34:31"
+  },
+  {
+    "project_id": "PRJ-004",
+    "project_key": "KSTORAGE",
+    "project_name": "Kafka Storage",
+    "description": "Storage, log, and replication capabilities",
+    "project_type": "Synthetic portfolio grouping",
+    "source_project_key": "KAFKA",
+    "data_type": "Simulated",
+    "end_date": "2026-11-09 17:35:40"
+  },
+  {
+    "project_id": "PRJ-005",
+    "project_key": "KPLATFORM",
+    "project_name": "Kafka Platform",
+    "description": "Cross-cutting platform, tooling, and operational capabilities",
+    "project_type": "Synthetic portfolio grouping",
+    "source_project_key": "KAFKA",
+    "data_type": "Simulated",
+    "end_date": "2026-11-10 20:33:05"
+  }
+]

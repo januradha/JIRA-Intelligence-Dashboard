@@ -1,0 +1,41 @@
+{
+  "package": "Quantum Force Jira Engineering Intelligence",
+  "generated_on": "2026-11-16",
+  "files": {
+    "sprints.json": 114984,
+    "developers.json": 245720,
+    "roles.json": 999,
+    "project_sprint_bridge.json": 232866,
+    "projects.json": 1673,
+    "dim_calendar.json": 1369684,
+    "dim_time.json": 10241331,
+    "teams.json": 1380,
+    "epics.json": 30386,
+    "README.md": 6799,
+    "user_team_access.json": 1561,
+    "people.json": 278719,
+    "team_members.json": 10246,
+    "issues_enriched.json": 28080868,
+    "issue_history.json": 15627839,
+    "team_roles.json": 934,
+    "features.json": 72509
+  },
+  "validation": {
+    "all_epics_project_ids_valid": true,
+    "all_features_project_ids_valid": true,
+    "all_issues_project_ids_valid": true,
+    "all_sprints_project_ids_valid": true,
+    "all_issue_epic_feature_sprint_fks_valid": true,
+    "all_issue_assignee_people_valid": true,
+    "all_issue_team_ids_valid": true,
+    "all_issue_story_points_between_0_and_3": true,
+    "all_resolved_issues_have_resolution": true,
+    "all_unresolved_cycle_times_null": true,
+    "all_developer_ids_valid_or_null": true,
+    "calendar_contains_all_issue_dates": true,
+    "all_features_end_dates_derived_from_resolved_child_issues": true,
+    "all_epics_end_dates_derived_from_resolved_child_issues": true,
+    "all_projects_end_dates_derived_from_resolved_child_issues": true,
+    "project_end_date_mapping": "Latest non-null end_date from related epics and features by project_id"
+  }
+}

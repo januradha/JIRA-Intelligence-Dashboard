@@ -1,0 +1,16 @@
+[
+  {
+    "sprint_id": "SPRINT-0401",
+    "sprint_name": "Sprint 401 - Active Demo",
+    "sprint_number": 401,
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-29",
+    "duration_days": 14,
+    "sprint_type": "Simulated - Active Demo",
+    "status": "Active",
+    "project_id": "PRJ-001",
+    "start_date_key": 20261116,
+    "end_date_key": 20261129,
+    "data_type": "Synthetic demo record added for active sprint demonstration"
+  }
+]
